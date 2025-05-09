@@ -49,3 +49,9 @@ This project is licensed under the MIT License.
 ```bash
 Feel free to open issues or submit pull requests with improvements or additional models.
 ```
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+
+
+
